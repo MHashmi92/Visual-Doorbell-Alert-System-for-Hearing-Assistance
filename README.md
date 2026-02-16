@@ -27,6 +27,10 @@ This project implements a real-time sound-to-light system using an Arduino Leona
 
 Watch the system detecting doorbell sound and activating the LED alert:
 https://youtu.be/WfFuAvrzU5w
+## Project Report
+
+The complete ideation and technical report is available below:
+[Download Full Report](Visual Doorbell alert ideation Report M1)
 
 ## Notes
 - The MAX9814 includes automatic gain control (AGC), which helps maintain stable output levels.

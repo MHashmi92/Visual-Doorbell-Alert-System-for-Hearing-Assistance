@@ -23,8 +23,10 @@ This project implements a real-time sound-to-light system using an Arduino Leona
 - Threshold-based filtering
 - Real-time LED control
 
-## Circuit Diagram
-![Circuit Diagram](images/circuit.jpg)
+## Demo Video
+
+Watch the system detecting doorbell sound and activating the LED alert:
+https://youtu.be/WfFuAvrzU5w
 
 ## Notes
 - The MAX9814 includes automatic gain control (AGC), which helps maintain stable output levels.
